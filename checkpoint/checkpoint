@@ -1,0 +1,6 @@
+model_checkpoint_path: "trainnum_200000_-48001"
+all_model_checkpoint_paths: "trainnum_200000_-44001"
+all_model_checkpoint_paths: "trainnum_200000_-45001"
+all_model_checkpoint_paths: "trainnum_200000_-46001"
+all_model_checkpoint_paths: "trainnum_200000_-47001"
+all_model_checkpoint_paths: "trainnum_200000_-48001"
