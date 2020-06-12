@@ -1,0 +1,2 @@
+trainnum_200000_-48001.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+checkpoint/trainnum_200000_-48001.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
